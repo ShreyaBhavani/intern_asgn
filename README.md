@@ -122,3 +122,11 @@ MIT
 - [Shadcn UI](https://ui.shadcn.com/) for component primitives
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first styling approach
 - [Storybook](https://storybook.js.org/) for component documentation
+
+
+## Screenshots 
+![image](https://github.com/user-attachments/assets/7d446f51-395b-49ba-8007-ab3256de7b7d)
+![image](https://github.com/user-attachments/assets/6c566cb4-7930-432c-b9c1-52084fadb3db)
+![image](https://github.com/user-attachments/assets/0ec0a42b-b3e0-4957-9c55-fb6d00f0c55d)
+
+You can view the full Storybook at ([https://your-vercel-deployed-url](https://intern-asgn.vercel.app/?path=/docs/design-system-data-display-accordion--docs))
